@@ -1,1 +1,1 @@
-print("Hello, world!")
+print("蔺东来年级第一")
