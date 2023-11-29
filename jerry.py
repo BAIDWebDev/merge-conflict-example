@@ -1,1 +1,1 @@
-print("Hello, world!")
+print("Subscribe to jerry sun")
